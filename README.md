@@ -17,12 +17,14 @@ Functionality:
    -User can delete a recipe.
   
    -CSS is used to make the app look like the mockup.
+   
 
 React Code Organization:
 
    -Uses multiple components that play well together
   
    -Recipe data is contained in the state.
+   
 
 General Code Organization:
  
