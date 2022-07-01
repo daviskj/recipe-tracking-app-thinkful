@@ -6,8 +6,7 @@ In this project, you will build a Recipe tracking app. The app will allow a user
 ![deliciousfoods](https://user-images.githubusercontent.com/98443655/176831801-536150b7-510f-4b5d-8830-62b35557d86d.png)
 
 
-Success Criteria
-
+Success Criteria:
 Functionality:
 
    -User can create a recipe entry.
@@ -18,14 +17,14 @@ Functionality:
   
    -CSS is used to make the app look like the mockup.
    
-
+--------------------------------------------------------------
 React Code Organization:
 
    -Uses multiple components that play well together
   
    -Recipe data is contained in the state.
    
-
+---------------------------------------------------------------
 General Code Organization:
  
    -Minimal code duplication
