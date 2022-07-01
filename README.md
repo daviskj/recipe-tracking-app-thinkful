@@ -10,19 +10,20 @@ Success Criteria
 
 Functionality:
 
-     -User can create a recipe entry.
+   -User can create a recipe entry.
   
-    -User can read the list of recipes.
+   -User can read the list of recipes.
   
-    -User can delete a recipe.
+   -User can delete a recipe.
   
-     -CSS is used to make the app look like the mockup.
+   -CSS is used to make the app look like the mockup.
 
 React Code Organization:
 
-  -Uses multiple components that play well together
+   -Uses multiple components that play well together
   
-  -Recipe data is contained in the state.
+   -Recipe data is contained in the state.
 
 General Code Organization:
-  -Minimal code duplication
+ 
+   -Minimal code duplication
